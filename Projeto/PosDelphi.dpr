@@ -101,7 +101,8 @@ uses
   Pattern.ConcreteBuilder in 'Model\Builders\Pattern.ConcreteBuilder.pas',
   Pattern.Director in 'Model\Builders\Pattern.Director.pas',
   Pattern.Builder in 'Model\Builders\Pattern.Builder.pas',
-  obser in 'obser.pas' {Form3};
+  obser in 'obser.pas' {Form3},
+  SingletonGeneric in 'SingletonGeneric\SingletonGeneric.pas';
 
 {$R *.res}
 
